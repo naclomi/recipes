@@ -1,4 +1,5 @@
 # Penne caprese
+(adapted from original recipe by Lidia Bastianich, bless her heart)
 
 ## Ingredients
 
@@ -33,4 +34,3 @@ Drain the fresh mozzarella. Mix the pasta, basil, and fresh mozzarella in with t
 * 2 small packages of basil (or one large package)
 * Use the whole bulb of garlic instead of half
 
-## (adapted from original recipe by Lidia Bastianich, bless her heart)
