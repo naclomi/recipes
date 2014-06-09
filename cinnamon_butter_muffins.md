@@ -1,21 +1,24 @@
-Cinnamon Butter Muffins
+# Cinnamon Butter Muffins
 Adapted from http://www.shutterbean.com/2013/baked-cinnamon-sugar-doughnuts/
 
-1 cup all-purpose flour
-3/4 cup sugar
-1 teaspoon baking powder
-1/2 teaspoon ground cinnamon
-1/4 teaspoon freshly grated nutmeg
-1/4 teaspoon kosher salt
-1 extra-large egg, lightly beaten
-1/2 cup buttermilk
-2 tablespoons unsalted butter, melted
-1 teaspoons vanilla extract
+## Ingredients
+* 1 cup all-purpose flour
+* 3/4 cup sugar
+* 1 teaspoon baking powder
+* 1/2 teaspoon ground cinnamon
+* 1/4 teaspoon freshly grated nutmeg
+* 1/4 teaspoon kosher salt
+* 1 extra-large egg, lightly beaten
+* 1/2 cup buttermilk
+* 2 tablespoons unsalted butter, melted
+* 1 teaspoons vanilla extract
 
 For the topping:
-2 tablespoons unsalted butter
-1/2 cup sugar
-1 teaspoon ground cinnamon
+* 2 tablespoons unsalted butter
+* 1/2 cup sugar
+* 1 teaspoon ground cinnamon
+
+## Recipe
 
 Preheat the oven to 350 degrees. Use a baker’s spray to coat a muffin tin.
 Sift together the flour, sugar, baking powder, cinnamon, nutmeg and salt in a mixing bowl.

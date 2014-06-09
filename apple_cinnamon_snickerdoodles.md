@@ -1,19 +1,23 @@
-Apple Cinnamon Snickerdoodles
+# Apple Cinnamon Snickerdoodles
+
 Adapted from http://www.gimmesomeoven.com/appledoodles-apple-snickerdoodles/
 
-8 Tbsp. (1 stick) unsalted butter
-2/3 cup brown sugar
-2/3 cup white, granulated sugar
-2 eggs
-2 cup all-purpose flour
-2 Tbsp. cornstarch
-1 tsp. baking soda
-1/2 tsp. salt
-1/8 tsp. nutmeg
-2 small apples / 1 large apple, peeled, cored and diced small
+## Ingredients
 
-1/3 cup sugar
-3 Tbsp. ground cinnamon
+* 8 Tbsp. (1 stick) unsalted butter
+* 2/3 cup brown sugar
+* 2/3 cup white, granulated sugar
+* 2 eggs
+* 2 cup all-purpose flour
+* 2 Tbsp. cornstarch
+* 1 tsp. baking soda
+* 1/2 tsp. salt
+* 1/8 tsp. nutmeg
+* 2 small apples / 1 large apple, peeled, cored and diced small
+* 1/3 cup sugar
+* 3 Tbsp. ground cinnamon
+
+## Directions
 
 Preheat oven to 350°F. 
 
