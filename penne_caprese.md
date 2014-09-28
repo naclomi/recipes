@@ -4,7 +4,7 @@ Penne caprese
 1 - Bulb of garlic
 1 - Small package of fresh basil leaves
 1 - 12oz Box of Mostaccioli Rigate (Penne Rigate also works, the pasta just has to have ridges on it)
-1 - Tub of fresh mozzarella, ciliegine size (these are the cherry/grape sized balls)
+1 - 8 oz package of fresh mozzarella, ciliegine size (these are the cherry/grape sized balls)
 Red pepper flakes, to taste
 1 - Large broccoli crown
 
@@ -13,11 +13,11 @@ Peel and mince half of the bulb of garlic. Pour the tomatoes into a large bowl a
 
 Fill a large pot with water and put on high heat. Fill a small pot about a quarter of the way with water and put on medium heat. If you have a vegetable steamer like this guy: http://www.texmex.net/Graphics/steamerbasket.gif, put that in the small pot too.
 
-Cover the bottom of a large sauce pan with olive oil and throw the garlic in, put on high heat. Saute the garlic while stirring lightly until it is golden brown. Pour the tomatoes in and add hot pepper flakes (I've never measured how much I use, but I would estimate about a tablespoon). Mix well. Put a lid on the saucepan and let the sauce come to a boil for about a minute. Give it a good stir and then turn the burner down to low heat/simmer.
+Cover the bottom of a large sauce pan with olive oil and throw the garlic in, put on high heat. Saute the garlic while stirring lightly until it is golden brown. Pour the tomatoes in and add hot pepper flakes (I've never measured how much I use, but I would estimate about a tablespoon). Mix well. Put a lid on the saucepan and let the sauce come to a boil for about a minute. Give it a good stir and then turn the burner down to medium heat, stirring regularly.
 
-At this point, add the broccoli to the small pot and the pasta to the large pot. Stir the pasta constantly. Let the broccoli steam for 3 to 4 minutes, then drain and rinse with cold water. Keep stirring the pasta until it's al dente, then drain.
+At this point, add the broccoli to the small pot and the pasta to the large pot. Stir the pasta constantly. Let the broccoli steam for 2 to 3 minutes, then drain and rinse with cold water. Keep stirring the pasta until it's al dente, then drain.
 
-Drain the tub of fresh mozzarella. Mix the pasta, basil, and fresh mozzarella in with the sauce and turn back on to high heat, stirring slowly until the mozzarella appears to be melted. It's done! Serve with shredded Parmesan and lemon juice for the broccoli :)
+Drain the package of fresh mozzarella. Mix the pasta, basil, and fresh mozzarella in with the sauce and turn back on to high heat, stirring slowly until the mozzarella appears to be melted. It's done! Serve with shredded Parmesan and lemon juice for the broccoli :)
 
 
 ALTERNATIVELY - 
@@ -25,8 +25,8 @@ ALTERNATIVELY -
 
 2 - 28oz cans of peeled tomatoes
 1 and a half - 12oz boxes of pasta
-3 - Tubs of ciliegine mozzarella
+2 - Packages of ciliegine mozzarella
 2 - Small packages of basil (or one large package)
 Use the whole bulb of garlic instead of half
 
-(adapted from original recipe by lidia bastianich, bless her heart)
+(adapted from original recipe by lidia bastianich)
