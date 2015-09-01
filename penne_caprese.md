@@ -18,7 +18,6 @@ Peel and mince half of the bulb of garlic. Pour the tomatoes into a large bowl a
 
 Fill a large pot with water and put on high heat. Fill a small pot about a quarter of the way with water and put on medium heat. If you have a vegetable steamer like this guy: http://www.texmex.net/Graphics/steamerbasket.gif, put that in the small pot too.
 
-<<<<<<< HEAD
 Cover the bottom of a large sauce pan with olive oil and throw the garlic in, put on high heat. Saute the garlic while stirring lightly until it is golden brown. Pour the tomatoes in and add hot pepper flakes (I've never measured how much I use, but I would estimate about a tablespoon). Mix well. Put a lid on the saucepan and let the sauce come to a boil for about a minute. Give it a good stir and then turn the burner down to medium heat, stirring regularly.
 
 At this point, add the broccoli to the small pot and the pasta to the large pot. Stir the pasta constantly. Let the broccoli steam for 2 to 3 minutes, then drain and rinse with cold water. Keep stirring the pasta until it's al dente, then drain.
