@@ -1,21 +1,22 @@
 Oatmeal butterscotch cookies
 Adapted from http://allrecipes.com/recipe/soft-oatmeal-cookies/
 
+The fats'n'sugars:
 - 1 cup butter, softened
 - 1 cup white sugar
 - 1 cup packed brown sugar
 
-
+The wets:
 - 2 eggs
 - 1 teaspoon vanilla extract
 
-
+The drys:
 - 2 cups all-purpose flour
 - 1 teaspoon baking soda
 - 1 teaspoon salt (leave out if butter is salted)
 - 1 1/2 teaspoons ground cinnamon
 
-
+The fun:
 - 1 1/2 cups quick-cooking oats
 - 1 1/2 cups regular/old-fashioned/classic oats
 - 1/3 bag of butterscotch chips
