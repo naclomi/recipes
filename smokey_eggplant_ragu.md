@@ -1,6 +1,6 @@
 Smokey Eggplant Ragu
 ====
-Loosely adapted from a https://www.foodnetwork.com/recipes/veal-parmesan-3646066
+Loosely adapted from https://www.foodnetwork.com/recipes/veal-parmesan-3646066
 
 - 1 japanese eggplant
 - Mesquite or hickory wood chips
@@ -25,7 +25,7 @@ Sauce
 ----
 Cover bottom of sauce pan liberally in olive oil.
 
-Coarsely chop onions, salt liberally, and carmelize over low heat for ~20
+Coarsely chop onions, add a few dashes of salt, and carmelize over low heat for ~20
 minutes while doing the other prep. Once onions are sweating but not yet
 carmelized, add a small splash of crushed tomato.
 
