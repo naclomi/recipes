@@ -18,7 +18,7 @@ adapted from http://www.myrecipes.com/recipe/cinnamon-apple-cake
 ## Preparation
 Preheat oven to 350°.
 
-Beat 1.5 cups sugar, margarine, vanilla, and cream cheese at medium speed of a mixer until well-blended (about 4 minutes). Add eggs, 1 at a time, beating well after each addition. Combine flour, baking powder, and salt. Add flour mixture to creamed mixture, beating at low speed until blended.
+Beat 1.5 cups sugar, butter, vanilla, and cream cheese at medium speed of a mixer until well-blended (about 4 minutes). Add eggs, 1 at a time, beating well after each addition. Combine flour, baking powder, and salt. Add flour mixture to creamed mixture, beating at low speed until blended.
 
 Combine .25 cups sugar and cinnamon. Combine 2 tablespoons cinnamon mixture and apple in a bowl, and stir apple mixture into batter. Pour batter into an 8-inch springform pan coated with cooking spray, and sprinkle with remaining cinnamon mixture.
 
