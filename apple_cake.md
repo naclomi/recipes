@@ -4,7 +4,7 @@ adapted from http://www.myrecipes.com/recipe/cinnamon-apple-cake
 ## Ingreds
 
 - 1.75 cups white sugar, divided into 1.5 cups and .25 cups
-- 1.5 cups unsalted butter, softened
+- .5 cup unsalted butter, softened
 - 1 teaspoon vanilla extract
 - 6 ounces block-style cream cheese, softened (about 3/4 cup)
 - 2 large eggs
